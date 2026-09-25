@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Rami Adel Ali
 
-### 💻 Full-Stack / Frontend Developer
+### 💻 Full-Stack Developer
 
 Building responsive and performant web applications with
 **React.js • Next.js • Node.js • MERN**
